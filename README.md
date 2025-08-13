@@ -75,13 +75,6 @@ You can download and explore the Power BI file from here:
 
 ---
 
-## How to Use
-1. Click the `.pbix` file link above to download
-2. Open it in **Power BI Desktop**
-3. Use filters and slicers to explore Netflix's content insights
-
----
-
 ## Future Improvements
 - Sentiment analysis of Netflix titles using external reviews
 - Integration of IMDb ratings for quality analysis
