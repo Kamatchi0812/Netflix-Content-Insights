@@ -79,8 +79,3 @@ You can download and explore the Power BI file from here:
 - Sentiment analysis of Netflix titles using external reviews
 - Integration of IMDb ratings for quality analysis
 - Year-on-year genre popularity trends
-
----
-
-## 📬 Contact
-For feedback or collaboration, connect via GitHub Issues or LinkedIn.
